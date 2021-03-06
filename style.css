@@ -19,3 +19,28 @@
     border-radius: 5px;
     padding: 10px 25px;
 }
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-image: linear-gradient(to right, #f59b5e 0%, #f36608 100%);
+}
+
+.cat2{
+    background-image: linear-gradient(to right, #5cabe0 0%, #78c8ec 100%);
+}
+
+.cat3{
+    background-image: linear-gradient(to right, #5061c5 0%, #1422e7 100%);
+}
+
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 120px;
+}
