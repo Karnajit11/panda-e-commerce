@@ -44,3 +44,29 @@
 .categories img{
     width: 120px;
 }
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px #848688;
+}
+
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+
+#subscribe{
+    height: 350px;
+}
+#subscribe h6{
+    color: gray;
+}
+
+#subscribe input{
+    margin-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    padding-bottom: 5px;
+}
